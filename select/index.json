@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ちゃんと",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-03-29T09:50:57.100164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1 三発分。ちゃんと、中出しされてきたから",
+      "artist": "あき電",
+      "has_synced": true,
+      "path": "select/01_1_三発分。ちゃんと、中出しされてきたから_あき電.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "08『保存完了〜♪ ちゃんと⼩まめに保存するクセついたのね。偉い偉い！』",
+      "artist": "DreamLight",
+      "has_synced": true,
+      "path": "select/02_08『保存完了〜♪_ちゃんと小まめに保存するクセついたのね。偉い偉い!』_DreamLight.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちゃんと",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_ちゃんと_Furui_Riho.txt"
+    }
+  ]
+}
